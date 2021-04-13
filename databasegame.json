@@ -1,0 +1,40 @@
+
+
+
+{
+  "question":{
+
+    "Ludva Prokopec": {
+                          "//1": {
+                            "a1": {"background0":"blue", "background1":"blue", "rightsite":0, "answer0":"jsem dobrý", "answer1":"jsem nejlepší", "question":"ahoj"},
+                            "a1": {"background0":"blue", "background1":"blue", "rightsite":0, "answer0":"jsem dobrý", "answer1":"jsem nejlepší", "question":"ahoj"},
+                            "a1": {"background0":"blue", "background1":"blue", "rightsite":0, "answer0":"jsem dobrý", "answer1":"jsem nejlepší", "question":"ahoj"},
+                            "a1": {"background0":"blue", "background1":"blue", "rightsite":0, "answer0":"jsem dobrý", "answer1":"jsem nejlepší", "question":"ahoj"},
+                            "a1": {"background0":"blue", "background1":"blue", "rightsite":0, "answer0":"jsem dobrý", "answer1":"jsem nejlepší", "question":"ahoj"},
+                            "a1": {"background0":"blue", "background1":"blue", "rightsite":0, "answer0":"jsem dobrý", "answer1":"jsem nejlepší", "question":"ahoj"},
+                            "a1": {"background0":"blue", "background1":"blue", "rightsite":0, "answer0":"jsem dobrý", "answer1":"jsem nejlepší", "question":"ahoj"},
+                            "a1": {"background0":"blue", "background1":"blue", "rightsite":0, "answer0":"jsem dobrý", "answer1":"jsem nejlepší", "question":"ahoj"},
+                            "a1": {"background0":"blue", "background1":"blue", "rightsite":0, "answer0":"jsem dobrý", "answer1":"jsem nejlepší", "question":"ahoj"},
+                            "a1": {"background0":"blue", "background1":"blue", "rightsite":0, "answer0":"jsem dobrý", "answer1":"jsem nejlepší", "question":"ahoj"},
+                            "a1": {"background0":"blue", "background1":"blue", "rightsite":0, "answer0":"jsem dobrý", "answer1":"jsem nejlepší", "question":"ahoj"},
+                            "a1": {"background0":"blue", "background1":"blue", "rightsite":0, "answer0":"jsem dobrý", "answer1":"jsem nejlepší", "question":"ahoj"},
+                            "a1": {"background0":"blue", "background1":"blue", "rightsite":0, "answer0":"jsem dobrý", "answer1":"jsem nejlepší", "question":"ahoj"},
+                            "a1": {"background0":"blue", "background1":"blue", "rightsite":0, "answer0":"jsem dobrý", "answer1":"jsem nejlepší", "question":"ahoj"}
+                          }
+                    }
+
+  },
+  "odpoved": {
+
+    "Ludva Prokopec": {
+
+      "//1": {
+
+        "name":"anyone"
+
+      }
+
+    }
+
+  }
+}
